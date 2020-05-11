@@ -31,15 +31,6 @@ We encourage our team members to write blogs and present their views on any topi
 
 Such small things constitute and lead to happy and satisfied employees. Many employees who work at Frappe say that they love the work culture we have here, and often recommend their friends to join too.
 
-
-{{ media(
-	"Prateeksha Singh",
-	"Despite having been in the business since 2008, we still work like a startup. It may be the fact of having 30-odd employees that gives us an agility to move quickly. Or our penchant to keep working on something new, while developing for and interacting with numerous users on a daily basis. Or that everything we build is open source, be it our code bases or our work model; almost no workplace hierarchy means greater osmosis of knowledge transfer. You don't have to belong to a team to build something you like, just get a domain buddy to pair to plan, and start working",
-	"https://frappe.io/files/prateeksha%202018-12-15%2023:07:56.jpg",
-	"Engineering Lead",
-	"https://twitter.com/pratu16x7"
-)}}
-
 <div class='text-center mt-5 mb-3'>
 	<a href="/careers/philosophy" class="btn btn-dark">Understand the Philosophy</a>
 </div>
